@@ -1,0 +1,16 @@
+h2
+{
+ background-color:white;
+ padding:10px;
+ border-width:10px;
+}
+body
+{
+    background-color: seagreen;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+border-style:solid;
+padding:20px;
+border-width:10px;
+}
